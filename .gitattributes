@@ -1,0 +1,10 @@
+# Normalise line endings: LF in the repository, LF on checkout.
+* text=auto eol=lf
+
+# Binary assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.webp binary
+*.safetensors binary
+*.gguf binary
